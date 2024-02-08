@@ -3,6 +3,9 @@
 /**
  * Prints out a simple greeting to the 2 names entered
  */
+
+//my note: run as such ./example_1 Nathan Euan -> Hello, Nathan and Euan!
+
 int main(int argc, char *argv[])
 {
     if (argc != 3)
